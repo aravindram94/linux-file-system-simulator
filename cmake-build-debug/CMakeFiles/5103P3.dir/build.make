@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/grad06/sindh010/Downloads/clion-2017.2.3/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/grad06/sindh010/Downloads/clion-2017.2.3/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/grad06/sindh010/github/5103P3
+CMAKE_SOURCE_DIR = /Users/aravind/Documents/college/OS/5103P3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/grad06/sindh010/github/5103P3/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/aravind/Documents/college/OS/5103P3/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/5103P3.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/5103P3.dir/flags.make
 
 CMakeFiles/5103P3.dir/BitBlock.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/BitBlock.cc.o: ../BitBlock.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/5103P3.dir/BitBlock.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/BitBlock.cc.o -c /home/grad06/sindh010/github/5103P3/BitBlock.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/5103P3.dir/BitBlock.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/BitBlock.cc.o -c /Users/aravind/Documents/college/OS/5103P3/BitBlock.cc
 
 CMakeFiles/5103P3.dir/BitBlock.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/BitBlock.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/BitBlock.cc > CMakeFiles/5103P3.dir/BitBlock.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/BitBlock.cc > CMakeFiles/5103P3.dir/BitBlock.cc.i
 
 CMakeFiles/5103P3.dir/BitBlock.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/BitBlock.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/BitBlock.cc -o CMakeFiles/5103P3.dir/BitBlock.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/BitBlock.cc -o CMakeFiles/5103P3.dir/BitBlock.cc.s
 
 CMakeFiles/5103P3.dir/BitBlock.cc.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/5103P3.dir/BitBlock.cc.o.provides.build: CMakeFiles/5103P3.dir/BitBlo
 
 CMakeFiles/5103P3.dir/Block.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/Block.cc.o: ../Block.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/5103P3.dir/Block.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/Block.cc.o -c /home/grad06/sindh010/github/5103P3/Block.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/5103P3.dir/Block.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/Block.cc.o -c /Users/aravind/Documents/college/OS/5103P3/Block.cc
 
 CMakeFiles/5103P3.dir/Block.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/Block.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/Block.cc > CMakeFiles/5103P3.dir/Block.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/Block.cc > CMakeFiles/5103P3.dir/Block.cc.i
 
 CMakeFiles/5103P3.dir/Block.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/Block.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/Block.cc -o CMakeFiles/5103P3.dir/Block.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/Block.cc -o CMakeFiles/5103P3.dir/Block.cc.s
 
 CMakeFiles/5103P3.dir/Block.cc.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/5103P3.dir/Block.cc.o.provides.build: CMakeFiles/5103P3.dir/Block.cc.
 
 CMakeFiles/5103P3.dir/cat.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/cat.cc.o: ../cat.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/5103P3.dir/cat.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/cat.cc.o -c /home/grad06/sindh010/github/5103P3/cat.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/5103P3.dir/cat.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/cat.cc.o -c /Users/aravind/Documents/college/OS/5103P3/cat.cc
 
 CMakeFiles/5103P3.dir/cat.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/cat.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/cat.cc > CMakeFiles/5103P3.dir/cat.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/cat.cc > CMakeFiles/5103P3.dir/cat.cc.i
 
 CMakeFiles/5103P3.dir/cat.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/cat.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/cat.cc -o CMakeFiles/5103P3.dir/cat.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/cat.cc -o CMakeFiles/5103P3.dir/cat.cc.s
 
 CMakeFiles/5103P3.dir/cat.cc.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/5103P3.dir/cat.cc.o.provides.build: CMakeFiles/5103P3.dir/cat.cc.o
 
 CMakeFiles/5103P3.dir/cp.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/cp.cc.o: ../cp.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/5103P3.dir/cp.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/cp.cc.o -c /home/grad06/sindh010/github/5103P3/cp.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/5103P3.dir/cp.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/cp.cc.o -c /Users/aravind/Documents/college/OS/5103P3/cp.cc
 
 CMakeFiles/5103P3.dir/cp.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/cp.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/cp.cc > CMakeFiles/5103P3.dir/cp.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/cp.cc > CMakeFiles/5103P3.dir/cp.cc.i
 
 CMakeFiles/5103P3.dir/cp.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/cp.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/cp.cc -o CMakeFiles/5103P3.dir/cp.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/cp.cc -o CMakeFiles/5103P3.dir/cp.cc.s
 
 CMakeFiles/5103P3.dir/cp.cc.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/5103P3.dir/cp.cc.o.provides.build: CMakeFiles/5103P3.dir/cp.cc.o
 
 CMakeFiles/5103P3.dir/DirectoryEntry.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/DirectoryEntry.cc.o: ../DirectoryEntry.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/5103P3.dir/DirectoryEntry.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/DirectoryEntry.cc.o -c /home/grad06/sindh010/github/5103P3/DirectoryEntry.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/5103P3.dir/DirectoryEntry.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/DirectoryEntry.cc.o -c /Users/aravind/Documents/college/OS/5103P3/DirectoryEntry.cc
 
 CMakeFiles/5103P3.dir/DirectoryEntry.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/DirectoryEntry.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/DirectoryEntry.cc > CMakeFiles/5103P3.dir/DirectoryEntry.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/DirectoryEntry.cc > CMakeFiles/5103P3.dir/DirectoryEntry.cc.i
 
 CMakeFiles/5103P3.dir/DirectoryEntry.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/DirectoryEntry.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/DirectoryEntry.cc -o CMakeFiles/5103P3.dir/DirectoryEntry.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/DirectoryEntry.cc -o CMakeFiles/5103P3.dir/DirectoryEntry.cc.s
 
 CMakeFiles/5103P3.dir/DirectoryEntry.cc.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/5103P3.dir/DirectoryEntry.cc.o.provides.build: CMakeFiles/5103P3.dir/
 
 CMakeFiles/5103P3.dir/dump.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/dump.cc.o: ../dump.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/5103P3.dir/dump.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/dump.cc.o -c /home/grad06/sindh010/github/5103P3/dump.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/5103P3.dir/dump.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/dump.cc.o -c /Users/aravind/Documents/college/OS/5103P3/dump.cc
 
 CMakeFiles/5103P3.dir/dump.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/dump.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/dump.cc > CMakeFiles/5103P3.dir/dump.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/dump.cc > CMakeFiles/5103P3.dir/dump.cc.i
 
 CMakeFiles/5103P3.dir/dump.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/dump.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/dump.cc -o CMakeFiles/5103P3.dir/dump.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/dump.cc -o CMakeFiles/5103P3.dir/dump.cc.s
 
 CMakeFiles/5103P3.dir/dump.cc.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/5103P3.dir/dump.cc.o.provides.build: CMakeFiles/5103P3.dir/dump.cc.o
 
 CMakeFiles/5103P3.dir/FileDescriptor.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/FileDescriptor.cc.o: ../FileDescriptor.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/5103P3.dir/FileDescriptor.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/FileDescriptor.cc.o -c /home/grad06/sindh010/github/5103P3/FileDescriptor.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/5103P3.dir/FileDescriptor.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/FileDescriptor.cc.o -c /Users/aravind/Documents/college/OS/5103P3/FileDescriptor.cc
 
 CMakeFiles/5103P3.dir/FileDescriptor.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/FileDescriptor.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/FileDescriptor.cc > CMakeFiles/5103P3.dir/FileDescriptor.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/FileDescriptor.cc > CMakeFiles/5103P3.dir/FileDescriptor.cc.i
 
 CMakeFiles/5103P3.dir/FileDescriptor.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/FileDescriptor.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/FileDescriptor.cc -o CMakeFiles/5103P3.dir/FileDescriptor.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/FileDescriptor.cc -o CMakeFiles/5103P3.dir/FileDescriptor.cc.s
 
 CMakeFiles/5103P3.dir/FileDescriptor.cc.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/5103P3.dir/FileDescriptor.cc.o.provides.build: CMakeFiles/5103P3.dir/
 
 CMakeFiles/5103P3.dir/FileSystem.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/FileSystem.cc.o: ../FileSystem.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/5103P3.dir/FileSystem.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/FileSystem.cc.o -c /home/grad06/sindh010/github/5103P3/FileSystem.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/5103P3.dir/FileSystem.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/FileSystem.cc.o -c /Users/aravind/Documents/college/OS/5103P3/FileSystem.cc
 
 CMakeFiles/5103P3.dir/FileSystem.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/FileSystem.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/FileSystem.cc > CMakeFiles/5103P3.dir/FileSystem.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/FileSystem.cc > CMakeFiles/5103P3.dir/FileSystem.cc.i
 
 CMakeFiles/5103P3.dir/FileSystem.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/FileSystem.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/FileSystem.cc -o CMakeFiles/5103P3.dir/FileSystem.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/FileSystem.cc -o CMakeFiles/5103P3.dir/FileSystem.cc.s
 
 CMakeFiles/5103P3.dir/FileSystem.cc.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/5103P3.dir/FileSystem.cc.o.provides.build: CMakeFiles/5103P3.dir/File
 
 CMakeFiles/5103P3.dir/IndexNode.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/IndexNode.cc.o: ../IndexNode.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/5103P3.dir/IndexNode.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/IndexNode.cc.o -c /home/grad06/sindh010/github/5103P3/IndexNode.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/5103P3.dir/IndexNode.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/IndexNode.cc.o -c /Users/aravind/Documents/college/OS/5103P3/IndexNode.cc
 
 CMakeFiles/5103P3.dir/IndexNode.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/IndexNode.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/IndexNode.cc > CMakeFiles/5103P3.dir/IndexNode.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/IndexNode.cc > CMakeFiles/5103P3.dir/IndexNode.cc.i
 
 CMakeFiles/5103P3.dir/IndexNode.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/IndexNode.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/IndexNode.cc -o CMakeFiles/5103P3.dir/IndexNode.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/IndexNode.cc -o CMakeFiles/5103P3.dir/IndexNode.cc.s
 
 CMakeFiles/5103P3.dir/IndexNode.cc.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/5103P3.dir/IndexNode.cc.o.provides.build: CMakeFiles/5103P3.dir/Index
 
 CMakeFiles/5103P3.dir/Kernel.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/Kernel.cc.o: ../Kernel.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/5103P3.dir/Kernel.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/Kernel.cc.o -c /home/grad06/sindh010/github/5103P3/Kernel.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/5103P3.dir/Kernel.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/Kernel.cc.o -c /Users/aravind/Documents/college/OS/5103P3/Kernel.cc
 
 CMakeFiles/5103P3.dir/Kernel.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/Kernel.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/Kernel.cc > CMakeFiles/5103P3.dir/Kernel.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/Kernel.cc > CMakeFiles/5103P3.dir/Kernel.cc.i
 
 CMakeFiles/5103P3.dir/Kernel.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/Kernel.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/Kernel.cc -o CMakeFiles/5103P3.dir/Kernel.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/Kernel.cc -o CMakeFiles/5103P3.dir/Kernel.cc.s
 
 CMakeFiles/5103P3.dir/Kernel.cc.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/5103P3.dir/Kernel.cc.o.provides.build: CMakeFiles/5103P3.dir/Kernel.c
 
 CMakeFiles/5103P3.dir/ls.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/ls.cc.o: ../ls.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/5103P3.dir/ls.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/ls.cc.o -c /home/grad06/sindh010/github/5103P3/ls.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/5103P3.dir/ls.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/ls.cc.o -c /Users/aravind/Documents/college/OS/5103P3/ls.cc
 
 CMakeFiles/5103P3.dir/ls.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/ls.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/ls.cc > CMakeFiles/5103P3.dir/ls.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/ls.cc > CMakeFiles/5103P3.dir/ls.cc.i
 
 CMakeFiles/5103P3.dir/ls.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/ls.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/ls.cc -o CMakeFiles/5103P3.dir/ls.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/ls.cc -o CMakeFiles/5103P3.dir/ls.cc.s
 
 CMakeFiles/5103P3.dir/ls.cc.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/5103P3.dir/ls.cc.o.provides.build: CMakeFiles/5103P3.dir/ls.cc.o
 
 CMakeFiles/5103P3.dir/mkdir.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/mkdir.cc.o: ../mkdir.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/5103P3.dir/mkdir.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/mkdir.cc.o -c /home/grad06/sindh010/github/5103P3/mkdir.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/5103P3.dir/mkdir.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/mkdir.cc.o -c /Users/aravind/Documents/college/OS/5103P3/mkdir.cc
 
 CMakeFiles/5103P3.dir/mkdir.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/mkdir.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/mkdir.cc > CMakeFiles/5103P3.dir/mkdir.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/mkdir.cc > CMakeFiles/5103P3.dir/mkdir.cc.i
 
 CMakeFiles/5103P3.dir/mkdir.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/mkdir.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/mkdir.cc -o CMakeFiles/5103P3.dir/mkdir.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/mkdir.cc -o CMakeFiles/5103P3.dir/mkdir.cc.s
 
 CMakeFiles/5103P3.dir/mkdir.cc.o.requires:
 
@@ -347,16 +347,16 @@ CMakeFiles/5103P3.dir/mkdir.cc.o.provides.build: CMakeFiles/5103P3.dir/mkdir.cc.
 
 CMakeFiles/5103P3.dir/mkfs.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/mkfs.cc.o: ../mkfs.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/5103P3.dir/mkfs.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/mkfs.cc.o -c /home/grad06/sindh010/github/5103P3/mkfs.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/5103P3.dir/mkfs.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/mkfs.cc.o -c /Users/aravind/Documents/college/OS/5103P3/mkfs.cc
 
 CMakeFiles/5103P3.dir/mkfs.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/mkfs.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/mkfs.cc > CMakeFiles/5103P3.dir/mkfs.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/mkfs.cc > CMakeFiles/5103P3.dir/mkfs.cc.i
 
 CMakeFiles/5103P3.dir/mkfs.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/mkfs.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/mkfs.cc -o CMakeFiles/5103P3.dir/mkfs.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/mkfs.cc -o CMakeFiles/5103P3.dir/mkfs.cc.s
 
 CMakeFiles/5103P3.dir/mkfs.cc.o.requires:
 
@@ -371,16 +371,16 @@ CMakeFiles/5103P3.dir/mkfs.cc.o.provides.build: CMakeFiles/5103P3.dir/mkfs.cc.o
 
 CMakeFiles/5103P3.dir/ProcessContext.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/ProcessContext.cc.o: ../ProcessContext.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/5103P3.dir/ProcessContext.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/ProcessContext.cc.o -c /home/grad06/sindh010/github/5103P3/ProcessContext.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/5103P3.dir/ProcessContext.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/ProcessContext.cc.o -c /Users/aravind/Documents/college/OS/5103P3/ProcessContext.cc
 
 CMakeFiles/5103P3.dir/ProcessContext.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/ProcessContext.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/ProcessContext.cc > CMakeFiles/5103P3.dir/ProcessContext.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/ProcessContext.cc > CMakeFiles/5103P3.dir/ProcessContext.cc.i
 
 CMakeFiles/5103P3.dir/ProcessContext.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/ProcessContext.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/ProcessContext.cc -o CMakeFiles/5103P3.dir/ProcessContext.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/ProcessContext.cc -o CMakeFiles/5103P3.dir/ProcessContext.cc.s
 
 CMakeFiles/5103P3.dir/ProcessContext.cc.o.requires:
 
@@ -395,16 +395,16 @@ CMakeFiles/5103P3.dir/ProcessContext.cc.o.provides.build: CMakeFiles/5103P3.dir/
 
 CMakeFiles/5103P3.dir/Stat.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/Stat.cc.o: ../Stat.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/5103P3.dir/Stat.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/Stat.cc.o -c /home/grad06/sindh010/github/5103P3/Stat.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/5103P3.dir/Stat.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/Stat.cc.o -c /Users/aravind/Documents/college/OS/5103P3/Stat.cc
 
 CMakeFiles/5103P3.dir/Stat.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/Stat.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/Stat.cc > CMakeFiles/5103P3.dir/Stat.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/Stat.cc > CMakeFiles/5103P3.dir/Stat.cc.i
 
 CMakeFiles/5103P3.dir/Stat.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/Stat.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/Stat.cc -o CMakeFiles/5103P3.dir/Stat.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/Stat.cc -o CMakeFiles/5103P3.dir/Stat.cc.s
 
 CMakeFiles/5103P3.dir/Stat.cc.o.requires:
 
@@ -419,16 +419,16 @@ CMakeFiles/5103P3.dir/Stat.cc.o.provides.build: CMakeFiles/5103P3.dir/Stat.cc.o
 
 CMakeFiles/5103P3.dir/SuperBlock.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/SuperBlock.cc.o: ../SuperBlock.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/5103P3.dir/SuperBlock.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/SuperBlock.cc.o -c /home/grad06/sindh010/github/5103P3/SuperBlock.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/5103P3.dir/SuperBlock.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/SuperBlock.cc.o -c /Users/aravind/Documents/college/OS/5103P3/SuperBlock.cc
 
 CMakeFiles/5103P3.dir/SuperBlock.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/SuperBlock.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/SuperBlock.cc > CMakeFiles/5103P3.dir/SuperBlock.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/SuperBlock.cc > CMakeFiles/5103P3.dir/SuperBlock.cc.i
 
 CMakeFiles/5103P3.dir/SuperBlock.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/SuperBlock.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/SuperBlock.cc -o CMakeFiles/5103P3.dir/SuperBlock.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/SuperBlock.cc -o CMakeFiles/5103P3.dir/SuperBlock.cc.s
 
 CMakeFiles/5103P3.dir/SuperBlock.cc.o.requires:
 
@@ -443,16 +443,16 @@ CMakeFiles/5103P3.dir/SuperBlock.cc.o.provides.build: CMakeFiles/5103P3.dir/Supe
 
 CMakeFiles/5103P3.dir/tee.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/tee.cc.o: ../tee.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/5103P3.dir/tee.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/tee.cc.o -c /home/grad06/sindh010/github/5103P3/tee.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/5103P3.dir/tee.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/tee.cc.o -c /Users/aravind/Documents/college/OS/5103P3/tee.cc
 
 CMakeFiles/5103P3.dir/tee.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/tee.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/tee.cc > CMakeFiles/5103P3.dir/tee.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/tee.cc > CMakeFiles/5103P3.dir/tee.cc.i
 
 CMakeFiles/5103P3.dir/tee.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/tee.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/tee.cc -o CMakeFiles/5103P3.dir/tee.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/tee.cc -o CMakeFiles/5103P3.dir/tee.cc.s
 
 CMakeFiles/5103P3.dir/tee.cc.o.requires:
 
@@ -467,16 +467,16 @@ CMakeFiles/5103P3.dir/tee.cc.o.provides.build: CMakeFiles/5103P3.dir/tee.cc.o
 
 CMakeFiles/5103P3.dir/ln.cc.o: CMakeFiles/5103P3.dir/flags.make
 CMakeFiles/5103P3.dir/ln.cc.o: ../ln.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/5103P3.dir/ln.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/ln.cc.o -c /home/grad06/sindh010/github/5103P3/ln.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/5103P3.dir/ln.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/5103P3.dir/ln.cc.o -c /Users/aravind/Documents/college/OS/5103P3/ln.cc
 
 CMakeFiles/5103P3.dir/ln.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/5103P3.dir/ln.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/grad06/sindh010/github/5103P3/ln.cc > CMakeFiles/5103P3.dir/ln.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aravind/Documents/college/OS/5103P3/ln.cc > CMakeFiles/5103P3.dir/ln.cc.i
 
 CMakeFiles/5103P3.dir/ln.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/5103P3.dir/ln.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/grad06/sindh010/github/5103P3/ln.cc -o CMakeFiles/5103P3.dir/ln.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aravind/Documents/college/OS/5103P3/ln.cc -o CMakeFiles/5103P3.dir/ln.cc.s
 
 CMakeFiles/5103P3.dir/ln.cc.o.requires:
 
@@ -533,7 +533,7 @@ CMakeFiles/5103P3.dir/ln.cc.o.provides.build: CMakeFiles/5103P3.dir/ln.cc.o
 5103P3: CMakeFiles/5103P3.dir/ln.cc.o
 5103P3: CMakeFiles/5103P3.dir/build.make
 5103P3: CMakeFiles/5103P3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable 5103P3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable 5103P3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/5103P3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -567,6 +567,6 @@ CMakeFiles/5103P3.dir/clean:
 .PHONY : CMakeFiles/5103P3.dir/clean
 
 CMakeFiles/5103P3.dir/depend:
-	cd /home/grad06/sindh010/github/5103P3/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/grad06/sindh010/github/5103P3 /home/grad06/sindh010/github/5103P3 /home/grad06/sindh010/github/5103P3/cmake-build-debug /home/grad06/sindh010/github/5103P3/cmake-build-debug /home/grad06/sindh010/github/5103P3/cmake-build-debug/CMakeFiles/5103P3.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/aravind/Documents/college/OS/5103P3/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/aravind/Documents/college/OS/5103P3 /Users/aravind/Documents/college/OS/5103P3 /Users/aravind/Documents/college/OS/5103P3/cmake-build-debug /Users/aravind/Documents/college/OS/5103P3/cmake-build-debug /Users/aravind/Documents/college/OS/5103P3/cmake-build-debug/CMakeFiles/5103P3.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/5103P3.dir/depend
 
